@@ -16,4 +16,4 @@
 
 ---
 
-Developed by [Star Web Developers](https://www.tsrwebdeveloper.com)
+Developed by [Star Web Developers](https://www.starwebdeveloper.com)
